@@ -20,6 +20,8 @@ User experience
 
 ## Algorithm
 
+[experiment 2.pdf](https://github.com/user-attachments/files/22995679/experiment.2.pdf)
+
 ## Result
 
 
